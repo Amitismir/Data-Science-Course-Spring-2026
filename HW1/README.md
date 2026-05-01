@@ -61,5 +61,5 @@ This assignment analyzes an automobile dataset to understand how technical and d
 
 ---
 
-Amitis Mirabedini
+Amitis Mirabedini  
 Electrical Engineering Undergraduate at Sharif University of Technology
